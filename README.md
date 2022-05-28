@@ -10,7 +10,7 @@ Hi, I'm [AMRESH KUMAR](https://amresh.prajapati.io), a DevOps Engineer 🚀 from
 
 ### :octocat: Github Statistics
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=ravindrasinghh&show_icons=true&theme=radical" alt="ravindrasinghh" width="480" height="180" />
+<img  src="https://github-readme-stats.vercel.app/api?username=amreshprajapati&show_icons=true&theme=radical" alt="Amresh Kumar" width="480" height="180" />
 </p>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
