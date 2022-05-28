@@ -1,4 +1,4 @@
-Hi, I'm [AMRESH KUMAR](https://www.linkedin.com/in/amresh-kumar-188a9619/), a DevOps Engineer 🚀 from India-Pune, but I describes myself as a Technology Entusiast.
+Hi, I'm [AMRESH KUMAR](https://amresh.prajapati.io), a DevOps Engineer 🚀 from India-Pune, but I describes myself as a Technology Entusiast.
 
 ### Talking about Personal Stuffs
 - 🌱 I’m currently exploring and learning new things in technology.
